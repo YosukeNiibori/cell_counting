@@ -1,1 +1,1 @@
-# cell detection by Stardist and count by python
+# Immunostained cell detection by StarDist and Count by python
