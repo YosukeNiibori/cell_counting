@@ -1,1 +1,1 @@
-# cell_counting
+# cell detection by Stardist and count by python
